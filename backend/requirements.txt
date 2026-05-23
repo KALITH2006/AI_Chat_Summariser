@@ -1,0 +1,11 @@
+transformers
+torch
+sentence-transformers
+keybert
+bertopic
+scikit-learn
+numpy
+pandas
+uvicorn
+fastapi
+python-multipart
